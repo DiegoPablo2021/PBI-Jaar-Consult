@@ -2,8 +2,6 @@
 
 Este projeto é um **Dashboard Comercial** interativo desenvolvido no **Power BI**, criado como parte do processo de avaliação da Jaar Consult. O objetivo é fornecer uma visão executiva completa e métricas detalhadas sobre o desempenho de vendas, performance de produtos e análises de descontos promocionais.
 
-![Visão Executiva](assets/Visão%20Executiva%20(Panorama%20Geral).png)
-
 ## 📌 Objetivos do Projeto
 
 O objetivo principal desta análise é extrair insights relevantes de uma base de dados simulada para apoiar a tomada de decisão estratégica em:
@@ -28,20 +26,24 @@ PS PBI Jaar Consult/
 
 ### 1. Visão Executiva (Panorama Geral)
 Fornece os KPIs mais críticos da operação, destacando a saúde financeira geral da empresa e as metas alcançadas em faturamento.
+<br>
+<img src="assets/visao-executiva.png" alt="Visão Executiva (Panorama Geral)" width="100%">
 
-### 2. Performance de Produtos e Categorias
-Uma visão detalhada de quais produtos e categorias lideram as vendas, permitindo análises granulares por região ou segmento e ajudando no controle e planejamento de estoque.
-![Performance de Produtos e Categorias](assets/Performance%20de%20Produtos%20e%20Categorias.png)
-
-### 3. Análise de Promoções e Descontos
+### 2. Análise de Promoções e Descontos
 Estudos sobre como os descontos afetam o volume, avaliando se campanhas de redução de preço estão de fato revertendo em lucro.
-![Análise de Promoções](assets/Análise%20de%20Promoções%20e%20Descontos.png)
+<br>
+<img src="assets/analise-promocoes.png" alt="Análise de Promoções e Descontos" width="100%">
+
+### 3. Performance de Produtos e Categorias
+Uma visão detalhada de quais produtos e categorias lideram as vendas, permitindo análises granulares por região ou segmento e ajudando no controle e planejamento de estoque.
+<br>
+<img src="assets/performance-produtos.png" alt="Performance de Produtos e Categorias" width="100%">
 
 ## 🚀 Como Executar o Projeto
 
 1. Clone o repositório em sua máquina:
    ```bash
-   git clone https://github.com/DiegoPablo2021/PS-PBI-Jaar-Consult.git
+   git clone https://github.com/DiegoPablo2021/PBI-Jaar-Consult.git
    ```
 2. É necessário ter o **Power BI Desktop** instalado.
 3. Navegue até a pasta do projeto e abra o arquivo `diegopmenezes@hotmail.com.pbix`.
