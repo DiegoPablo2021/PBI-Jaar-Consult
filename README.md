@@ -19,7 +19,7 @@ PS PBI Jaar Consult/
 │   └── raw/                # Bases de dados brutas e originais
 ├── docs/                   # Documentação auxiliar e enunciados do projeto
 ├── README.md               # Este arquivo
-└── diegopmenezes@hotmail.com.pbix   # Arquivo principal do Power BI
+└── dashboard_exceutivo.pbix   # Arquivo principal do Power BI
 ```
 
 ## 📊 Principais Telas e Análises (Dashboards)
@@ -46,7 +46,7 @@ Uma visão detalhada de quais produtos e categorias lideram as vendas, permitind
    git clone https://github.com/DiegoPablo2021/PBI-Jaar-Consult.git
    ```
 2. É necessário ter o **Power BI Desktop** instalado.
-3. Navegue até a pasta do projeto e abra o arquivo `diegopmenezes@hotmail.com.pbix`.
+3. Navegue até a pasta do projeto e abra o arquivo `dashboard_exceutivo.pbix`.
 4. Atualize as fontes de dados caso o caminho absoluto dos arquivos `data/raw` precise ser reconfigurado em sua máquina.
 
 ## 🛠️ Tecnologias Utilizadas
