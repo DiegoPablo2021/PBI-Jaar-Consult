@@ -2,7 +2,7 @@
 
 Este projeto é um **Dashboard Comercial** interativo desenvolvido no **Power BI**, criado como parte do processo de avaliação da Jaar Consult. O objetivo é fornecer uma visão executiva completa e métricas detalhadas sobre o desempenho de vendas, performance de produtos e análises de descontos promocionais.
 
-## 📌 Objetivos do Projeto
+## Objetivos do Projeto
 
 O objetivo principal desta análise é extrair insights relevantes de uma base de dados simulada para apoiar a tomada de decisão estratégica em:
 - **Desempenho Comercial:** Visão macro do faturamento, custos e lucratividade.
@@ -22,7 +22,7 @@ PS PBI Jaar Consult/
 └── dashboard_exceutivo.pbix   # Arquivo principal do Power BI
 ```
 
-## 📊 Principais Telas e Análises (Dashboards)
+## Principais Telas e Análises (Dashboards)
 
 ### 1. Visão Executiva (Panorama Geral)
 Fornece os KPIs mais críticos da operação, destacando a saúde financeira geral da empresa e as metas alcançadas em faturamento.
@@ -39,7 +39,7 @@ Uma visão detalhada de quais produtos e categorias lideram as vendas, permitind
 <br>
 <img src="assets/performance-produtos.png" alt="Performance de Produtos e Categorias" width="100%">
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 1. Clone o repositório em sua máquina:
    ```bash
@@ -49,7 +49,7 @@ Uma visão detalhada de quais produtos e categorias lideram as vendas, permitind
 3. Navegue até a pasta do projeto e abra o arquivo `dashboard_exceutivo.pbix`.
 4. Atualize as fontes de dados caso o caminho absoluto dos arquivos `data/raw` precise ser reconfigurado em sua máquina.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Power BI:** Para modelagem de dados, criação de medidas DAX e visualização de dashboards.
 - **Git & GitHub:** Para versionamento e organização do portfólio.
