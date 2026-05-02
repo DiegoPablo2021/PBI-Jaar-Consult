@@ -9,7 +9,7 @@ O objetivo principal desta análise é extrair insights relevantes de uma base d
 - **Análise de Promoções e Descontos:** O impacto e a eficiência dos descontos concedidos nas vendas.
 - **Performance de Produtos e Categorias:** Identificação de produtos e categorias mais rentáveis e com maior aderência ao mercado.
 
-## 🗂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 PS PBI Jaar Consult/
